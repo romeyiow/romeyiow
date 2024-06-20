@@ -1,7 +1,7 @@
 
 ![@reallygreatsite (2)](https://github.com/romeyiow/romeyiow/assets/77595388/d46ee6a5-bc74-4bd8-bedd-0718986151ea)
 <br>
-### Hi there 👋! I'm Jerome Imperial, an aspiring full-stack web developer...
+### Hi there 👋! I'm Jerome, an aspiring full-stack web developer...
 Over the years, I've dived into numerous projects, constantly honing my skills and expanding my knowledge. I'm excited about the opportunity to help businesses thrive in the digital age and can't wait to contribute to meaningful projects. **Let's build something amazing together!**
 
 
