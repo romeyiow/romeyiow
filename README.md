@@ -1,7 +1,6 @@
 
-![@reallygreatsite](https://github.com/romeyiow/romeyiow/assets/77595388/4632bd5f-ead9-4a0e-9f06-a77fd44638f9)
-
-<!--
+<!![@reallygreatsite (2)](https://github.com/romeyiow/romeyiow/assets/77595388/d46ee6a5-bc74-4bd8-bedd-0718986151ea)
+--
 ## Hi there 👋
 **romeyiow/romeyiow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
