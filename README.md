@@ -1,7 +1,7 @@
 
 ![@reallygreatsite (2)](https://github.com/romeyiow/romeyiow/assets/77595388/d46ee6a5-bc74-4bd8-bedd-0718986151ea)
 <br>
-### Hi 👋 I am Rome!
+# Hi 👋 I am Rome!
 Over the years, I've dived into numerous projects, constantly honing my skills and expanding my knowledge. I'm excited about the opportunity to help businesses thrive in the digital age and can't wait to contribute to meaningful projects. Feel free to explore and test my works :)   
 
 Here's an overview of what my works.
@@ -12,6 +12,7 @@ Features:
 - integration cacl 
 - interpolation calc
 - differentiation cacl
+- 
 Screens Preview:
 ![image](https://github.com/romeyiow/romeyiow/assets/77595388/26fda329-8fcf-4dd9-b575-58701da619d8)
 ![image](https://github.com/romeyiow/romeyiow/assets/77595388/6b54d85b-8b55-4b97-8433-b623f2e87140)
@@ -19,6 +20,8 @@ Screens Preview:
 ![image](https://github.com/romeyiow/romeyiow/assets/77595388/9f8ea3ea-1300-4e66-92ba-76ae49b63119)
 
 Demo Video:
+https://github.com/romeyiow/romeyiow/assets/77595388/2bffd845-1485-4b58-bc77-333a498856dc
+https://github.com/romeyiow/romeyiow/assets/77595388/2bffd845-1485-4b58-bc77-333a498856dc
 
 [Full Documentation] (https://)
 
