@@ -19,11 +19,10 @@ Screens Preview:
 ![image](https://github.com/romeyiow/romeyiow/assets/77595388/9f8ea3ea-1300-4e66-92ba-76ae49b63119)
 
 Demo Video:
-https://github.com/romeyiow/romeyiow/assets/77595388/ffd9e1b5-b1c9-4cd2-8d93-65807e18a11f
 
-[👉 Full Documentation ](https://)
+[Full Documentation] (https://)
 
-### [👉Live Demo 👀](https://prxncxss03.github.io/freedom-board-front-end/)
+### [👉Live Demo 👀]([https://prxncxss03.github.io/freedom-board-front-end/](https://leafy-mochi-001fb8.netlify.app/))
 ### 
 
 ## Websites
