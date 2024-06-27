@@ -8,10 +8,11 @@ Here's an overview of what my works.
 
 ## Applications 
 ### NUMVERSE - Numerical methods calculator and learning guide.
-https://youtu.be/9XVPOBkYM0w
-## Watch the Video
 
-[![Watch the video](assets/videos/tmb-numverse.png)](assets/videos/vokoscreenNG-2024-06-28_00-52-21.mp4)
+Demo Video
+https://github.com/romeyiow/romeyiow/assets/77595388/e1319fc5-76f0-49d6-85b2-6c8d54b31e94
+
+
 
 ### 
 
@@ -20,6 +21,10 @@ https://youtu.be/9XVPOBkYM0w
 
 
 <!--
+https://youtu.be/9XVPOBkYM0w
+## Watch the Video
+
+[![Watch the video](assets/videos/tmb-numverse.png)](assets/videos/vokoscreenNG-2024-06-28_00-52-21.mp4)
 ### [👉Live Demo 👀](https://prxncxss03.github.io/freedom-board-front-end/)
 ## Hi there 👋
 **romeyiow/romeyiow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,3 +40,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## License
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
