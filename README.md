@@ -9,6 +9,10 @@ Here's an overview of what my works.
 ## Applications 
 ### NUMVERSE - Numerical methods calculator and learning guide.
 https://youtu.be/9XVPOBkYM0w
+## Watch the Video
+
+[![Watch the video](assets/videos/tmb-numverse.png)](assets/videos/vokoscreenNG-2024-06-28_00-52-21.mp4)
+
 ### 
 
 ## Websites
