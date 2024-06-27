@@ -7,7 +7,8 @@ Over the years, I've dived into numerous projects, constantly honing my skills a
 Here's an overview of what my works.
 
 ## Applications 
-### 
+### NUMVERSE - Numerical methods calculator and learning guide.
+
 ### 
 
 ## Websites
@@ -15,6 +16,7 @@ Here's an overview of what my works.
 
 
 <!--
+### [👉Live Demo 👀](https://prxncxss03.github.io/freedom-board-front-end/)
 ## Hi there 👋
 **romeyiow/romeyiow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
