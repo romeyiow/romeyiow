@@ -12,7 +12,6 @@ Features:
 - integration cacl 
 - interpolation calc
 - differentiation cacl
-<br>
 Screens Preview:
 ![image](https://github.com/romeyiow/romeyiow/assets/77595388/26fda329-8fcf-4dd9-b575-58701da619d8)
 ![image](https://github.com/romeyiow/romeyiow/assets/77595388/6b54d85b-8b55-4b97-8433-b623f2e87140)
