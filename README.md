@@ -32,11 +32,12 @@ Over the years, I've dived into numerous projects, constantly honing my skills a
 
 [👉 Live Demo 👀](https://wadprojers.netlify.app/index.html)
 
-#### 3. Online Portfolio
+#### 3. Online Portfolio [![Netlify Status](https://api.netlify.com/api/v1/badges/67dd5fec-b25a-4011-8f99-6332bc0ac27e/deploy-status)](https://leafy-mochi-001fb8.netlify.app/)
 
 <details><summary>Website Screenshot 📷</summary>
    <img src="https://github.com/romeyiow/romeyiow/assets/77595388/eb844bd6-34dd-41ad-8333-5d03a6921867">
 </details>
+
 [👉 Live Demo 👀](https://leafy-mochi-001fb8.netlify.app/)
    
 <!--
