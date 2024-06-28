@@ -4,21 +4,23 @@
 ## Hi there 👋
 Over the years, I've dived into numerous projects, constantly honing my skills and expanding my knowledge. I'm excited about the opportunity to help businesses thrive in the digital age and can't wait to contribute to meaningful projects. Feel free to explore and test my works :)   
 
-Here's an overview of what my works.
-
-### Applications    
+### Here's an overview of program applications I developed ...    
 #### 1. Numverse - numerical methods solver and learning guide. 
 <details><summary>video demo 👈</summary>
 <video src="https://github.com/romeyiow/romeyiow/assets/77595388/2bffd845-1485-4b58-bc77-333a498856dc" autoplay>
 </details>
+   
 #### 2. SortingMeetsHue - application program that teaches sorting algorithms through animation.
-<details><summary>video demo 👈</summary></summary>
+<details><summary>video demo 👈</summary>
 <video src="https://github.com/romeyiow/romeyiow/assets/77595388/60dbd4aa-bc55-4bda-94b5-df09cc9ce21e" autoplay>
 </details>
-### Websites
-#### 1. Responsive Donation Website
-![image](https://github.com/romeyiow/romeyiow/assets/77595388/500fe8cb-b4bd-4953-8b4e-326ac1424b68)
 
+### And here's some of the websites I worked on ...    
+#### 1. Responsive Donation Website
+
+<details><summary>Website Screenshot 📷</summary>
+   <img src="https://github.com/romeyiow/romeyiow/assets/77595388/500fe8cb-b4bd-4953-8b4e-326ac1424b68">
+</details>
 [Live Demo 👀](https://jcidonationwebsite.netlify.app/home)
 
 #### 2. Online Portfolio
