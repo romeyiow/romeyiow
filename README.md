@@ -7,25 +7,30 @@ Over the years, I've dived into numerous projects, constantly honing my skills a
 Here's an overview of what my works.
 
 ## Applications 
-### 1. NUMVERSE - Numerical methods solver and learning guide.
+### 1. NumVerse - Numerical methods solver and learning guide.
 #### Features:
 - integration cacl 
 - interpolation calc
 - differentiation cacl
 ### #Demo Video: <br>
 https://github.com/romeyiow/romeyiow/assets/77595388/2bffd845-1485-4b58-bc77-333a498856dc
-
+## 2. SortingMeetsHue - application program that teaches sorting algorithms through animated colored boxes.
 
 ## Websites
 1. Responsive Donation Website
 ![image](https://github.com/romeyiow/romeyiow/assets/77595388/500fe8cb-b4bd-4953-8b4e-326ac1424b68)
  [Live Demo 👀](https://jcidonationwebsite.netlify.app/home)
+
 2. Online Portfolio
 ![image](https://github.com/romeyiow/romeyiow/assets/77595388/eb844bd6-34dd-41ad-8333-5d03a6921867)
  [Live Demo 👀](https://leafy-mochi-001fb8.netlify.app/)
 
-
-
+3. Simple Social Media App
+![image](https://github.com/romeyiow/romeyiow/assets/77595388/9ab7ccb8-cb2e-4f43-9196-1e2338622307)
+![image](https://github.com/romeyiow/romeyiow/assets/77595388/cf656901-08fc-412a-9ebf-5485af1a9803)
+![image](https://github.com/romeyiow/romeyiow/assets/77595388/6b03e133-6072-48c6-8439-293b3a2b9df6)
+[Live Demo 👀](https://wadprojers.netlify.app/index.html)
+   
 <!--
 
 ![image](https://github.com/romeyiow/romeyiow/assets/77595388/26fda329-8fcf-4dd9-b575-58701da619d8)
