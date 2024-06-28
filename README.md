@@ -23,7 +23,7 @@ Over the years, I've dived into numerous projects, constantly honing my skills a
 
 [👉 Live Demo 👀](https://jcidonationwebsite.netlify.app/home)
 
-#### 2. Social Media App [![Netlify Status](https://api.netlify.com/api/v1/badges/67dd5fec-b25a-4011-8f99-6332bc0ac27e/deploy-status)](https://wadprojers.netlify.app/index.html)
+#### 2. Simple Social Media App [![Netlify Status](https://api.netlify.com/api/v1/badges/67dd5fec-b25a-4011-8f99-6332bc0ac27e/deploy-status)](https://wadprojers.netlify.app/index.html)
 <details><summary>Website Screenshot 📷</summary>
    <img src="https://github.com/romeyiow/romeyiow/assets/77595388/9ab7ccb8-cb2e-4f43-9196-1e2338622307">
    <img src="https://github.com/romeyiow/romeyiow/assets/77595388/cf656901-08fc-412a-9ebf-5485af1a9803">
@@ -32,8 +32,11 @@ Over the years, I've dived into numerous projects, constantly honing my skills a
 
 [👉 Live Demo 👀](https://wadprojers.netlify.app/index.html)
 
-#### 2. Online Portfolio
-![image](https://github.com/romeyiow/romeyiow/assets/77595388/eb844bd6-34dd-41ad-8333-5d03a6921867)
+#### 3. Online Portfolio
+
+<details><summary>Website Screenshot 📷</summary>
+   <img src="https://github.com/romeyiow/romeyiow/assets/77595388/eb844bd6-34dd-41ad-8333-5d03a6921867">
+</details>
 [👉 Live Demo 👀](https://leafy-mochi-001fb8.netlify.app/)
    
 <!--
