@@ -7,15 +7,15 @@ Over the years, I've dived into numerous projects, constantly honing my skills a
 Here's an overview of what my works.
 
 ## Applications 
-### 1. NumVerse - Numerical methods solver and learning guide.
-#### Features:
-- integration cacl 
-- interpolation calc
-- differentiation cacl
-### #Demo Video: <br>
-https://github.com/romeyiow/romeyiow/assets/77595388/2bffd845-1485-4b58-bc77-333a498856dc
-## 2. SortingMeetsHue - application program that teaches sorting algorithms through animated colored boxes.
-https://github.com/romeyiow/romeyiow/assets/77595388/60dbd4aa-bc55-4bda-94b5-df09cc9ce21e
+### 1. NUMVERSE - numerical methods solver and learning guide.
+<details><summary><h4>Demo Video: </h4></summary>
+<video src="https://github.com/romeyiow/romeyiow/assets/77595388/2bffd845-1485-4b58-bc77-333a498856dc" autoplay>
+</details>
+## 2. SortingMeetsHue - application program that teaches sorting algorithms through animation.
+<details><summary><h4>Demo Video: </h4></summary>
+<video src="https://github.com/romeyiow/romeyiow/assets/77595388/60dbd4aa-bc55-4bda-94b5-df09cc9ce21e" autoplay>
+</details>
+
 ## Websites
 1. Responsive Donation Website
 ![image](https://github.com/romeyiow/romeyiow/assets/77595388/500fe8cb-b4bd-4953-8b4e-326ac1424b68)
