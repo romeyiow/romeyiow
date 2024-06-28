@@ -6,12 +6,12 @@ Over the years, I've dived into numerous projects, constantly honing my skills a
 
 Here's an overview of what my works.
 
-## Applications 
-### 1. NUMVERSE - numerical methods solver and learning guide.
+<h2>Applications</h2> 
+<h3>1. NUMVERSE - numerical methods solver and learning guide. </h3> 
 <details><summary><h4>Demo Video: </h4></summary>
 <video src="https://github.com/romeyiow/romeyiow/assets/77595388/2bffd845-1485-4b58-bc77-333a498856dc" autoplay>
 </details>
-## 2. SortingMeetsHue - application program that teaches sorting algorithms through animation.
+<h3>2. SortingMeetsHue - application program that teaches sorting algorithms through animation.</h3>
 <details><summary><h4>Demo Video: </h4></summary>
 <video src="https://github.com/romeyiow/romeyiow/assets/77595388/60dbd4aa-bc55-4bda-94b5-df09cc9ce21e" autoplay>
 </details>
