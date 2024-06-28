@@ -5,34 +5,33 @@ Over the years, I've dived into numerous projects, constantly honing my skills a
 
 ### Here's an overview of program applications I developed ...    
 #### 1. Numverse - numerical methods solver and learning guide. 
-<details><summary>video demo 👈</summary>
+<details><summary>video demo 💻</summary>
 <video src="https://github.com/romeyiow/romeyiow/assets/77595388/2bffd845-1485-4b58-bc77-333a498856dc" autoplay>
 </details>
    
 #### 2. SortingMeetsHue - application program that teaches sorting algorithms through animation.
-<details><summary>video demo 👈</summary>
+<details><summary>video demo 💻</summary>
 <video src="https://github.com/romeyiow/romeyiow/assets/77595388/60dbd4aa-bc55-4bda-94b5-df09cc9ce21e" autoplay>
 </details>
 
 ### And here's some of the websites I worked on ...    
-#### 1. Responsive Donation Website
+#### 1. Responsive Donation Website 
 
 <details><summary>Website Screenshot 📷</summary>
    <img src="https://github.com/romeyiow/romeyiow/assets/77595388/500fe8cb-b4bd-4953-8b4e-326ac1424b68">
 </details>
 [Live Demo 👀](https://jcidonationwebsite.netlify.app/home)
 
-#### 2. Online Portfolio
-![image](https://github.com/romeyiow/romeyiow/assets/77595388/eb844bd6-34dd-41ad-8333-5d03a6921867)
-
-[Live Demo 👀](https://leafy-mochi-001fb8.netlify.app/)
-
-#### 3. Simple Social Media App
+#### 2. Social Media App
 ![image](https://github.com/romeyiow/romeyiow/assets/77595388/9ab7ccb8-cb2e-4f43-9196-1e2338622307)
 ![image](https://github.com/romeyiow/romeyiow/assets/77595388/cf656901-08fc-412a-9ebf-5485af1a9803)
 ![image](https://github.com/romeyiow/romeyiow/assets/77595388/6b03e133-6072-48c6-8439-293b3a2b9df6)
 
 [Live Demo 👀](https://wadprojers.netlify.app/index.html)
+
+#### 2. Online Portfolio
+![image](https://github.com/romeyiow/romeyiow/assets/77595388/eb844bd6-34dd-41ad-8333-5d03a6921867)
+[Live Demo 👀](https://leafy-mochi-001fb8.netlify.app/)
    
 <!--
 
