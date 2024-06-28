@@ -1,35 +1,34 @@
 
 ![@reallygreatsite (2)](https://github.com/romeyiow/romeyiow/assets/77595388/d46ee6a5-bc74-4bd8-bedd-0718986151ea)
 <br>
-# Hi 👋 I am Rome!
+## Hi there 👋
 Over the years, I've dived into numerous projects, constantly honing my skills and expanding my knowledge. I'm excited about the opportunity to help businesses thrive in the digital age and can't wait to contribute to meaningful projects. Feel free to explore and test my works :)   
 
 Here's an overview of what my works.
 
-<h2>Applications</h2> 
-<h3>1. NUMVERSE - numerical methods solver and learning guide. </h3> 
-<details><summary><h4>Demo Video: </h4></summary>
+### Applications  
+#### 1. Numverse - numerical methods solver and learning guide. 
+<details>
+<summary>video demo 👈</summary>
 <video src="https://github.com/romeyiow/romeyiow/assets/77595388/2bffd845-1485-4b58-bc77-333a498856dc" autoplay>
 </details>
 <h3>2. SortingMeetsHue - application program that teaches sorting algorithms through animation.</h3>
-<details><summary><h4>Demo Video: </h4></summary>
+<details><summary><h4> 👉 Demo Video </h4></summary>
 <video src="https://github.com/romeyiow/romeyiow/assets/77595388/60dbd4aa-bc55-4bda-94b5-df09cc9ce21e" autoplay>
 </details>
 
-## Websites
-1. Responsive Donation Website
+### Websites
+#### 1. Responsive Donation Website
 ![image](https://github.com/romeyiow/romeyiow/assets/77595388/500fe8cb-b4bd-4953-8b4e-326ac1424b68)
 
 [Live Demo 👀](https://jcidonationwebsite.netlify.app/home)
 
-3. Online Portfolio
+#### 2. Online Portfolio
 ![image](https://github.com/romeyiow/romeyiow/assets/77595388/eb844bd6-34dd-41ad-8333-5d03a6921867)
 
 [Live Demo 👀](https://leafy-mochi-001fb8.netlify.app/)
 
-3. Simple Social Media App
-
-
+#### 3. Simple Social Media App
 ![image](https://github.com/romeyiow/romeyiow/assets/77595388/9ab7ccb8-cb2e-4f43-9196-1e2338622307)
 ![image](https://github.com/romeyiow/romeyiow/assets/77595388/cf656901-08fc-412a-9ebf-5485af1a9803)
 ![image](https://github.com/romeyiow/romeyiow/assets/77595388/6b03e133-6072-48c6-8439-293b3a2b9df6)
