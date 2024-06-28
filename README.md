@@ -20,12 +20,16 @@ Over the years, I've dived into numerous projects, constantly honing my skills a
 <details><summary>Website Screenshot 📷</summary>
    <img src="https://github.com/romeyiow/romeyiow/assets/77595388/500fe8cb-b4bd-4953-8b4e-326ac1424b68">
 </details>
+
 [Live Demo 👀](https://jcidonationwebsite.netlify.app/home)
 
-#### 2. Social Media App
-![image](https://github.com/romeyiow/romeyiow/assets/77595388/9ab7ccb8-cb2e-4f43-9196-1e2338622307)
-![image](https://github.com/romeyiow/romeyiow/assets/77595388/cf656901-08fc-412a-9ebf-5485af1a9803)
-![image](https://github.com/romeyiow/romeyiow/assets/77595388/6b03e133-6072-48c6-8439-293b3a2b9df6)
+#### 2. Social Media App [![Netlify Status](https://api.netlify.com/api/v1/badges/67dd5fec-b25a-4011-8f99-6332bc0ac27e/deploy-status)]
+(https://wadprojers.netlify.app/index.html)
+<details><summary>Website Screenshot 📷</summary>
+   <img src="https://github.com/romeyiow/romeyiow/assets/77595388/9ab7ccb8-cb2e-4f43-9196-1e2338622307">
+   <img src="https://github.com/romeyiow/romeyiow/assets/77595388/cf656901-08fc-412a-9ebf-5485af1a9803">
+   <img src="https://github.com/romeyiow/romeyiow/assets/77595388/6b03e133-6072-48c6-8439-293b3a2b9df6">
+</details>
 
 [Live Demo 👀](https://wadprojers.netlify.app/index.html)
 
