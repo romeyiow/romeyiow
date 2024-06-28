@@ -15,7 +15,7 @@ Over the years, I've dived into numerous projects, constantly honing my skills a
 </details>
 
 ### And here's some of the websites I worked on ...    
-#### 1. Responsive Donation Website 
+#### 1. Responsive Donation Website [![Netlify Status](https://api.netlify.com/api/v1/badges/67dd5fec-b25a-4011-8f99-6332bc0ac27e/deploy-status)](https://jcidonationwebsite.netlify.app/home)
 
 <details><summary>Website Screenshot 📷</summary>
    <img src="https://github.com/romeyiow/romeyiow/assets/77595388/500fe8cb-b4bd-4953-8b4e-326ac1424b68">
