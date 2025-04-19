@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 Over the years, I've dived into numerous projects, constantly honing my skills and expanding my knowledge. I'm excited about the opportunity to help businesses thrive in the digital age and can't wait to contribute to meaningful projects. Feel free to explore and test my works :)   
-
+<!--
 ### Here's an overview of program applications I developed ...    
 #### 1. Numverse - numerical methods solver and learning guide. 
 <details><summary>video demo 💻</summary>
@@ -40,7 +40,7 @@ Over the years, I've dived into numerous projects, constantly honing my skills a
 
 [👉 Live Demo 👀](https://leafy-mochi-001fb8.netlify.app/)
    
-<!--
+
 
 ![image](https://github.com/romeyiow/romeyiow/assets/77595388/26fda329-8fcf-4dd9-b575-58701da619d8)
 ![image](https://github.com/romeyiow/romeyiow/assets/77595388/6b54d85b-8b55-4b97-8433-b623f2e87140)
